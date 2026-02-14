@@ -1,0 +1,2 @@
+This Research introduces a control-inspired deep learning framework that integrates lag and lead compensation concepts into EfficientNetB3 to improve the classification of lung nodules from CT scans.
+Traditional CNN models focus solely on learning spatial patterns, often overlooking the temporal or dynamic aspects of medical imaging. By applying control-theoretic compensation strategies, this model aims to enhance network stability, reduce bias, and improve classification accuracy.
